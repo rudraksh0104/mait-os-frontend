@@ -1,2 +1,2 @@
 # mait-os-frontend
-mait-os.html
+index.html
